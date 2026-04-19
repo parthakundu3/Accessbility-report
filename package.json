@@ -1,0 +1,33 @@
+{
+  "name": "wcag-checker",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@axe-core/puppeteer": "^4.11.2",
+    "@sparticuz/chromium-min": "^147.0.1",
+    "cheerio": "^1.2.0",
+    "jszip": "^3.10.1",
+    "next": "16.2.4",
+    "openai": "^6.34.0",
+    "puppeteer-core": "^24.41.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "react-dropzone": "^15.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20.19.39",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.4",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

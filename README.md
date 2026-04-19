@@ -42,3 +42,4 @@ After scanning an HTML file, the application displays a summary and detailed vio
 git clone https://github.com/your-username/wcag-checker.git
 cd wcag-checker
 npm install
+```
