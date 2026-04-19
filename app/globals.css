@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+  --capgemini-dark: #0070ad;
+  --capgemini-light: #12abdb;
+}
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-blue-50 to-white;
+  }
+
+  h1,
+  h2,
+  h3 {
+    @apply font-sans font-semibold;
+  }
+
+  button {
+    @apply transition-all duration-200;
+  }
+}
