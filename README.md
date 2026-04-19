@@ -1,6 +1,7 @@
 # ♿ WCAG 2.0 Level AA Compliance Checker
 
-![Demo - File Upload](Accessbility-check1.png)
+![Demo - File Upload](https://github.com/parthakundu3/Accessbility-report/blob/main/public/Accessbility-check1.png)
+
 
 ## 📋 Objective
 
