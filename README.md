@@ -27,7 +27,7 @@ The goal is to make accessibility testing faster, more consistent, and easier to
 
 After scanning an HTML file, the application displays a summary and detailed violations like this:
 
-![Sample Accessibility Report](Accessbility-report.png)
+![Sample Accessibility Report](https://github.com/parthakundu3/Accessbility-report/blob/main/public/Accessbility-report.png)
 
 ---
 
