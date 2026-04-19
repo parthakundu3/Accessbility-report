@@ -40,7 +40,7 @@ After scanning an HTML file, the application displays a summary and detailed vio
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/wcag-checker.git
-cd wcag-checker
+git clone (https://github.com/parthakundu3/Accessbility-report.git)
+cd Accessbility-report
 npm install
 ```
